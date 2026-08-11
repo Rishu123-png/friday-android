@@ -1,0 +1,30 @@
+*.iml
+.gradle
+.kotlin
+.jdk
+.android
+android-sdk/
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Android Studio generated files
+/*.iml
+/app/*.iml
+
+# Signing keys & secrets
+*.jks
+*.keystore
+*.p12
+*.pem
+google-services.json
+
+# Built outputs
+/app/build/
+*.apk
+*.aab
